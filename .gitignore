@@ -1,0 +1,5 @@
+.streamlit
+.idea
+venv
+app.yaml
+.gcloudignore
